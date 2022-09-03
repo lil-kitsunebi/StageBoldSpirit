@@ -1,0 +1,8 @@
+En suivant le lien suivant : 
+https://drive.google.com/file/d/11wrcP23_MaWPow0ohgmI_0t8EzVdbJrb/view?usp=sharing
+
+
+Vous y retrouverez les éléments suivants :
+-Une vidéo de la démo pour Red Trigger 2 qui montre les différentes mécaniques que j'ai implémentées
+-Un document expliquant tous les éléments sur lesquelles j'ai travaillé durant mon stage
+-Un mini jeu pour montrer brièvement certains éléments qui ne se trouvent pas dans la démo
